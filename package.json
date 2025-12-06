@@ -1,8 +1,20 @@
 {
   "name": "vite-project",
-  "private": true,
   "version": "0.0.0",
+  "private": true,
+  "description": "Ecomm",
+  "homepage": "https://github.com/dharmavirkumar/E-commm#readme",
+  "bugs": {
+    "url": "https://github.com/dharmavirkumar/E-commm/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dharmavirkumar/E-commm.git"
+  },
+  "license": "ISC",
+  "author": "dharmavir",
   "type": "module",
+  "main": "eslint.config.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

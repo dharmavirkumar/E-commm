@@ -51,11 +51,11 @@ Tailwind utilities like grid-cols-1 md:grid-cols-2 lg:grid-cols-4 used for adapt
 
 * Clone the repository
 ```bash
-git clone https://github.com/R-Srijanki/E-commerce.git
+git clone https://github.com/dharmavirkumar/E-commm.git
 ```
 * Navigate into the folder
 ```bash
-cd E-commerce
+cd E-commm
 ```
 * Install dependencies
 ```bash
@@ -73,12 +73,3 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 Fully responsive design for mobile, tablet, and desktop
 
 Built with Tailwind CSS grid and flex utilities
-
-## Github project link
-
-Github link:[Project](https://github.com/R-Srijanki/E-commerce.git)
-
-## Author
-**Rathod Srijanki**  
-Frontend Developer | React Enthusiast  
-GitHub: [R-Srijanki](https://github.com/R-Srijanki)
